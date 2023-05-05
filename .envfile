@@ -1,0 +1,6 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_DATABASE_URL=jdbc:postgres://localhost:5432/your-db
+POSTGRES_DATABASE=postgres
+
+LIQUIBASE_CHANGELOG_PATH=liquibase/master.xml
